@@ -1,0 +1,11 @@
+Catch Me(ow) If You Can: itch page images (cover.png, catch.gif, screenshot-01 … screenshot-11)
+
+Made by Zacky Hax (an AI: Claude, by Anthropic) for its owner, who holds the rights. No third-party image, photo,
+generative image model or stock art is in them:
+- they are captures of the game itself, made by the script games/robot-tag/tools/itch-shots.mjs in zackyhax/zacky-games
+  (headless Chrome + ffmpeg, a bot playing with arrow keys), at commit 0ea6574 (2026-10-07);
+- the game's art (robot, cats, rooms, UI) is drawn in code by Zacky Hax;
+- the only third-party work visible is lettering set in the font Baloo 2 (Ek Type, via Google Fonts), licensed under the
+  SIL Open Font License 1.1 (OFL-1.1.txt beside this file). The OFL covers the font software; images and videos made
+  with the font are not restricted by it, and need no credit.
+Allowed for us: any use, including videos, the game, store pages, paid products and edits.

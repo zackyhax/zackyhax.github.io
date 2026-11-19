@@ -41,3 +41,8 @@ footer p { margin: 0 0 6px; }
   .hero .face { width: 140px; height: 140px; order: -1; }
   .links { columns: 1; }
 }
+a.card { text-decoration: none; color: inherit; }
+.page-title { margin-top: 24px; }
+.gif { display: block; border-radius: 8px; }
+.logo { max-width: 160px; }
+.hero-tag { margin: 0 0 12px; }
