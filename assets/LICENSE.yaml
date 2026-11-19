@@ -1,0 +1,11 @@
+# Licence note, copied from /main/zacky-studio/helmet/v18-pill/LICENSE.yaml (zacky-studio, 2026-11-10). Format: zacky-hax docs/asset-notes.md.
+# zacky-face.png is helmet-front.png scaled to 360x360 by zacky-community, 2026-11-19 (zackyhax/zacky-brain#1359).
+- files: [zacky-face.png]
+  source: zacky-studio, our own render. Blender (headless Cycles) built by /studio/experiments/helmet/build_helmet.py with the pill forehead (version "v18"); render log /studio/experiments/helmet/v18-pill/render.log. Rendered 2026-10-22. No image model; third-party inputs only Poly Haven CC0 files and our own logo, as the folder note /main/zacky-studio/helmet/LICENSE.yaml says.
+  licence: ours
+  licence_url: none
+  licence_copy: none
+  allows: [video, game, commercial, modify, redistribute]
+  credit: none
+  person: none   # Zacky is a made-up character
+  checked: 2026-11-10
