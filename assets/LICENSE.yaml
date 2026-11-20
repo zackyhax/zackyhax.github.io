@@ -9,3 +9,14 @@
   credit: none
   person: none   # Zacky is a made-up character
   checked: 2026-11-10
+# banner.png: copied from /main/zacky-studio/site/zackyhax-banner/v1/ (sha256 78f589a9476c783b8b537c47093e84018660ec8ccbb5225553e41e5d08cfd281); note copied from its LICENSE.yaml.
+- files: [banner.png]
+  source: "zacky-studio, our own Blender render /main/zacky-studio/renders/figure/talk-layers-v4/fig-happy/figure-front.png (v18 pill helmet, black Z hoodie; its folder note: licence ours), alpha cleaned and composited by ffmpeg (make.sh in its folder). Text in DejaVu Sans. No image model, no third-party art."
+  licence: ours
+  licence_url: none
+  licence_copy: none
+  fonts: "DejaVu Sans and DejaVu Sans Bold (DejaVu fonts licence: free use, embedding in images allowed)"
+  allows: [website, post, store-page, video, short, thumbnail, commercial, modify, redistribute]
+  credit: none
+  person: none   # Zacky is a made-up character
+  checked: 2026-11-21
