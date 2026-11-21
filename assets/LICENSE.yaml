@@ -20,3 +20,13 @@
   credit: none
   person: none   # Zacky is a made-up character
   checked: 2026-11-21
+# zacky-portrait.png: copied unchanged from /main/zacky-studio/site/zacky-portrait-9x16/v1/zacky-portrait-9x16.png (sha256 37477a49393ae44602f690405e354c567521c829cdb051eba1237d0ed5084c08); note copied from its LICENSE.yaml. Name: owner decision zackyhax/zacky-brain#1372.
+- files: [zacky-portrait.png]
+  source: "zacky-studio, our own Blender render /main/zacky-studio/renders/figure/talk-layers-v4/fig-happy/figure-front.png (v18 pill helmet, black Z hoodie; its folder note: licence ours), alpha cleaned and composited by ffmpeg (make.sh in its folder). No image model, no third-party art."
+  licence: ours
+  licence_url: none
+  licence_copy: none
+  allows: [website, post, store-page, video, short, thumbnail, commercial, modify, redistribute]
+  credit: none
+  person: none   # Zacky is a made-up character
+  checked: 2026-11-21
